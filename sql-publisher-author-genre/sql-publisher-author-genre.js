@@ -15,5 +15,5 @@ alert('I chose this answer because the database allows a publisher to list all o
 var sqlPublisherGenreSchema =  Schemas.OPTION_6; // TODO: Update this constant
 alert('I chose this answer because the database allows a genre to display all publishers within that genre in publisher_genre'); // TODO: Write a comment here explaining your choice
 
-var sqlAuthorGenreSchema =  Schemas.FIX_ME; // TODO: Update this constant
-// TODO: Write a comment here explaining your choice
+var sqlAuthorGenreSchema =  Schemas.OPTION_6; // TODO: Update this constant
+alert('I chose this answer because the database allows a genre to display all authors within that genre in the author_genre table') // TODO: Write a comment here explaining your choice
