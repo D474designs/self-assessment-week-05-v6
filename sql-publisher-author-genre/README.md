@@ -2,8 +2,8 @@
 
 View the following diagrams created in [WWW SQL Designer](http://ondras.zarovi.cz/sql/demo/), and fill in `sql-publisher-author-genre.js` with the schemas that are appropriate for the following data with the specified relationships:
 
-  * publisher, has many authors, has one genre
   * author, has many publishers, has many genres
+  * publisher, has many authors, has one genre
   * genre, has many publishers, has many authors
 
 Additionally, write a comment in `sql-publisher-author-genre.js` to explain your choice.
