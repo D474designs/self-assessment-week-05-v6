@@ -9,11 +9,11 @@ var Schemas = {
   OPTION_6: 'option 6'
 };
 
-var sqlPublisherAuthorSchema =  Schemas.FIX_ME; // TODO: Update this constant
-// TODO: Write a comment here explaining your choice
+var sqlPublisherAuthorSchema =  Schemas.OPTION_6; // TODO: Update this constant
+alert('I chose this answer because the database allows a publisher to list all of it\'s authors in the publisher_author table'); // TODO: Write a comment here explaining your choice
 
-var sqlPublisherGenreSchema =  Schemas.FIX_ME; // TODO: Update this constant
-// TODO: Write a comment here explaining your choice
+var sqlPublisherGenreSchema =  Schemas.OPTION_6; // TODO: Update this constant
+alert('I chose this answer because the database allows a genre to display all publishers within that genre in publisher_genre'); // TODO: Write a comment here explaining your choice
 
 var sqlAuthorGenreSchema =  Schemas.FIX_ME; // TODO: Update this constant
 // TODO: Write a comment here explaining your choice
